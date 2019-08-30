@@ -1,3 +1,21 @@
+%   Hanz Martin Cheng 
+%   hanz.cheng@monash.edu
+%   Monash University, Australia
+%   
+%   Ball approximated characteristics method for implementing characteristic-based schemes in 3D
+%
+%   This Source Code Form is subject to the terms of the GNU Lesser General
+%   Public License v3.0. If a copy of the LGPL was not distributed with 
+%   this file, You can obtain one at https://www.gnu.org/licenses/lgpl-3.0.
+%  
+%   If you use this code or parts of it for scientific publications, you
+%   are required to cite it as following:
+%   
+%   An efficient implementation of mass conserving characteristic-based schemes in 2D and 3D
+%   H.M. Cheng and J. Droniou
+%   ArXiv e-prints
+%   https://arxiv.org/abs/1908.05834
+
 %% Characteristic-based schemes for the advection-reaction problem
 % for solenoidal fields
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
